@@ -13,7 +13,7 @@
     "backgroundImage": "https://example.com/background.jpg"
   },
   "release": {
-    "version": "1.0.0",
+    "version": "5.0.0",
     "releaseNote": "This is a release note",
     "updateUrl": "https://example.com/update"
   },
