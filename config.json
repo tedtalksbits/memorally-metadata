@@ -1,0 +1,27 @@
+{
+  "featureFlags": {
+    "chatGPTIntegration": true,
+    "betaFeature": false
+  },
+  "apiEndpoints": {
+    "userApi": "https://api.example.com/user",
+    "productApi": "https://api.example.com/product"
+  },
+  "uiSettings": {
+    "theme": "dark",
+    "welcomeMessage": "Welcome to our app!",
+    "backgroundImage": "https://example.com/background.jpg"
+  },
+  "release": {
+    "version": "1.0.0",
+    "releaseNote": "This is a release note",
+    "updateUrl": "https://example.com/update"
+  },
+  "remoteContent": {
+    "newsFeed": "https://example.com/news"
+  },
+  "settings": {
+    "enableLogging": true,
+    "maxItemsPerPage": 20
+  }
+}
