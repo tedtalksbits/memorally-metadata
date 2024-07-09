@@ -24,6 +24,6 @@
     "maxItemsPerPage": 20
   },
   "dangerZone": {
-    "offline": false
+    "offline": true
   }
 }
