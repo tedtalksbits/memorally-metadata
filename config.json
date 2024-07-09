@@ -1,14 +1,13 @@
 {
   "featureFlags": {
     "chatGPTIntegration": true,
-    "betaFeature": false
   },
   "apiEndpoints": {
     "userApi": "https://api.example.com/user",
     "productApi": "https://api.example.com/product"
   },
   "uiSettings": {
-    "theme": "dark",
+    "appIcon": "https://example.com/background.jpg",
     "welcomeMessage": "Welcome to our app!",
     "backgroundImage": "https://example.com/background.jpg"
   },
@@ -23,5 +22,8 @@
   "settings": {
     "enableLogging": true,
     "maxItemsPerPage": 20
+  },
+  "dangerZone": {
+    "offline": false
   }
 }
