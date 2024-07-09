@@ -1,6 +1,6 @@
 {
   "featureFlags": {
-    "chatGPTIntegration": true,
+    "chatGPTIntegration": true
   },
   "apiEndpoints": {
     "userApi": "https://api.example.com/user",
